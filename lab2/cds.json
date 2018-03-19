@@ -1,0 +1,276 @@
+{
+  "cdlist": [
+    {
+      "tracks": [
+        {
+          "author": "Cesar Camargo Mariano", 
+          "name": "Samambaia", 
+          "time": "5'04"
+        }, 
+        {
+          "author": "Pixinguinha e Joao de Barro", 
+          "name": "Carinhoso", 
+          "time": "3'51"
+        }, 
+        {
+          "author": "Helio Delmiro", 
+          "name": "Emotiva no. 4", 
+          "time": "4'11"
+        }, 
+        {
+          "author": "Cesar Camargo Mariano", 
+          "name": "Curumim", 
+          "time": "3'41"
+        }, 
+        {
+          "author": "Helio Delmiro", 
+          "name": "Das Cordas", 
+          "time": "1'50"
+        }, 
+        {
+          "author": "Milton Nascimento e Fernando Brandt", 
+          "name": "Milagre Dos Peixes", 
+          "time": "4'46"
+        }, 
+        {
+          "author": "Cesar Camargo Mariano", 
+          "name": "Choratta", 
+          "time": "2'10"
+        }, 
+        {
+          "author": "Ary Barroso", 
+          "name": "No Rancho Fundo", 
+          "time": "4'55"
+        }, 
+        {
+          "author": "Helio Delmiro", 
+          "name": "Ninhos", 
+          "time": "5'50"
+        }, 
+        {
+          "author": "Cesar Camargo Mariano", 
+          "name": "Maria Rita", 
+          "time": "2'14"
+        }
+      ], 
+      "artist": "Cesar Camargo Mariano e Helio Delmiro", 
+      "year": "1981", 
+      "title": "Samambaia"
+    }, 
+    {
+      "tracks": [
+        {
+          "author": "Carlos Lyra e Vinicius de Moraes", 
+          "name": "Marcha da Quarta Feira de Cinzas", 
+          "time": "4'11"
+        }, 
+        {
+          "author": "4'56", 
+          "name": "Beguine", 
+          "time": "Juarez Moreira"
+        }, 
+        {
+          "author": "Juarez Moreira e Paulinho Pedra Azul", 
+          "name": "Ultimo Adeus", 
+          "time": "8'11"
+        }, 
+        {
+          "author": "Juarez Moreira", 
+          "name": "Focus", 
+          "time": "3'51"
+        }, 
+        {
+          "author": "Juarez Moreira", 
+          "name": "Samblues", 
+          "time": "5,24"
+        }, 
+        {
+          "author": "Juarez Moreira", 
+          "name": "Choro Para Piazzolla", 
+          "time": "3'32"
+        }, 
+        {
+          "author": "Juarez Moreira", 
+          "name": "Praia", 
+          "time": "3'58"
+        }, 
+        {
+          "author": "Juarez Moreira", 
+          "name": "Voce Chegou Sorrindo", 
+          "time": "4'38"
+        }, 
+        {
+          "author": "Juarez Moreira/Tadeu Franco", 
+          "name": "No Desafio do Mar", 
+          "time": "4'42"
+        }, 
+        {
+          "author": "Gordon/Warren", 
+          "name": "There'll never be another you", 
+          "time": "4'06"
+        }, 
+        {
+          "author": "Juarez Moreira", 
+          "name": "Um Rosto De Mulher", 
+          "time": "3'00"
+        }
+      ], 
+      "artist": "Juarez Moreira", 
+      "year": "", 
+      "title": "Samblues"
+    }, 
+    {
+      "tracks": [
+        {
+          "author": "John Abercrombie", 
+          "name": "Arcade", 
+          "time": "9'37"
+        }, 
+        {
+          "author": "John Abercrombie", 
+          "name": "NightLake", 
+          "time": "5'30"
+        }, 
+        {
+          "author": "John Abercrombie", 
+          "name": "Paramour", 
+          "time": "5'05"
+        }, 
+        {
+          "author": "John Abercrombie", 
+          "name": "Neptune", 
+          "time": "7'28"
+        }, 
+        {
+          "author": "John Abercrombie", 
+          "name": "Alchemy", 
+          "time": "11'30"
+        }
+      ], 
+      "artist": "John Abercrombie Quartet", 
+      "year": "1978", 
+      "title": "Arcade"
+    }, 
+    {
+      "tracks": [
+        {
+          "author": "Eric Clapton", 
+          "name": "Same Old Blues", 
+          "time": "17'35"
+        }, 
+        {
+          "author": "Eric Clapton", 
+          "name": "Tearing Us Apart", 
+          "time": "11'36"
+        }, 
+        {
+          "author": "Eric Clapton", 
+          "name": "Cocaine", 
+          "time": "8'27"
+        }, 
+        {
+          "author": "Eric Clapton", 
+          "name": "Layla", 
+          "time": "12'29"
+        }, 
+        {
+          "author": "Eric Clapton", 
+          "name": "Behind The Mask", 
+          "time": "4'30"
+        }, 
+        {
+          "author": "Eric Clapton", 
+          "name": "Sunshine Of Your Love", 
+          "time": "16'08"
+        }
+      ], 
+      "artist": "Eric Clapton & Mark Knopfler", 
+      "year": "1989", 
+      "title": "The Twelfth Night "
+    }, 
+    {
+      "tracks": [
+        {
+          "author": "Charlie Christian", 
+          "name": "Soft Winds", 
+          "time": "2'30"
+        }, 
+        {
+          "author": "Charlie Christian", 
+          "name": "Solo Flight", 
+          "time": "2'47"
+        }, 
+        {
+          "author": "Charlie Christian", 
+          "name": "Stardust", 
+          "time": "3'16"
+        }, 
+        {
+          "author": "Charlie Christian", 
+          "name": "Swing To Bop", 
+          "time": "8'53"
+        }, 
+        {
+          "author": "Charlie Christian", 
+          "name": "Till Tom Special", 
+          "time": "3'03"
+        }, 
+        {
+          "author": "Charlie Christian", 
+          "name": "Waitin' For Benny", 
+          "time": "5'07"
+        }, 
+        {
+          "author": "Charlie Christian", 
+          "name": "Wholly Cats", 
+          "time": "3'01"
+        }
+      ], 
+      "artist": "Charlie Christian", 
+      "year": "1939", 
+      "title": "Solo Flight"
+    }, 
+    {
+      "tracks": [
+        {
+          "author": "Tom Jobim", 
+          "name": "Wave", 
+          "time": "2'30"
+        }, 
+        {
+          "author": "Tom Jobim", 
+          "name": "Red House Blouse", 
+          "time": "2'47"
+        }, 
+        {
+          "author": "Tom Jobim", 
+          "name": "Look To The Sky", 
+          "time": "3'16"
+        }, 
+        {
+          "author": "Tom Jobim", 
+          "name": "Batidinha", 
+          "time": "8'53"
+        }, 
+        {
+          "author": "Tom Jobim", 
+          "name": "Triste", 
+          "time": "3'03"
+        }, 
+        {
+          "author": "Tom Jobim", 
+          "name": "Mojave", 
+          "time": "5'07"
+        }, 
+        {
+          "author": "Pixinguinha", 
+          "name": "Lamento", 
+          "time": "3'01"
+        }
+      ], 
+      "artist": "Tom Jobim", 
+      "year": "1967", 
+      "title": "Wave"
+    }
+  ]
+}

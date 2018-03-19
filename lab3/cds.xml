@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<cdlist>
+	<album artist="Cesar Camargo Mariano e Helio Delmiro" tittle="Samambaia" year="1981">
+		<tracks>
+			<track author="Cesar Camargo Mariano" name="Samambaia" time="5'04"/>
+			<track author="Pixinguinha e Joao de Barro" name="Carinhoso" time="3'51"/>
+			<track author="Helio Delmiro" name="Emotiva no. 4" time="4'11"/>
+			<track author="Cesar Camargo Mariano" name="Curumim" time="3'41"/>
+			<track author="Helio Delmiro" name="Das Cordas" time="1'50"/>
+			<track author="Milton Nascimento e Fernando Brandt" name="Milagre Dos Peixes" time="4'46"/>
+			<track author="Cesar Camargo Mariano" name="Choratta" time="2'10"/>
+			<track author="Ary Barroso" name="No Rancho Fundo" time="4'55"/>
+			<track author="Helio Delmiro" name="Ninhos" time="5'50"/>
+			<track author="Cesar Camargo Mariano" name="Maria Rita" time="2'14"/>
+		</tracks>
+	</album>
+	<album artist="Juarez Moreira" tittle="Samblues" year="">
+		<tracks>
+			<track author="Carlos Lyra e Vinicius de Moraes" name="Marcha da Quarta Feira de Cinzas" time="4'11"/>
+			<track author="Juarez Moreira" name="Beguine" time="4'56"/>
+			<track author="Juarez Moreira e Paulinho Pedra Azul" name="Ultimo Adeus" time="8'11"/>
+			<track author="Juarez Moreira" name="Focus" time="3'51"/>
+			<track author="Juarez Moreira" name="Samblues" time="5'24"/>
+			<track author="Juarez Moreira" name="Choro Para Piazzolla" time="3'32"/>
+			<track author="Juarez Moreira" name="Praia" time="3'58"/>
+			<track author="Juarez Moreira" name="Voce Chegou Sorrindo" time="4'38"/>
+			<track author="Juarez Moreira/Tadeu Franco" name="No Desafio do Mar" time="4'42"/>
+			<track author="Gordon/Warren" name="There'll never be another you" time="4'06"/>
+			<track author="Juarez Moreira" name="Um Rosto De Mulher" time="3'00"/>
+		</tracks>
+	</album>
+	<album artist="John Abercrombie Quartet" tittle="Arcade" year="1978">
+		<tracks>
+			<track author="John Abercrombie" name="Arcade" time="9'37"/>
+			<track author="John Abercrombie" name="NightLake" time="5'30"/>
+			<track author="John Abercrombie" name="Paramour" time="5'05"/>
+			<track author="John Abercrombie" name="Neptune" time="7'28"/>
+			<track author="John Abercrombie" name="Alchemy" time="11'30"/>
+		</tracks>
+	</album>
+	<album artist="Eric Clapton &amp; Mark Knopfler" tittle="The Twelfth Night " year="1989">
+		<tracks>
+			<track author="Eric Clapton" name="Same Old Blues" time="17'35"/>
+			<track author="Eric Clapton" name="Tearing Us Apart" time="11'36"/>
+			<track author="Eric Clapton" name="Cocaine" time="8'27"/>
+			<track author="Eric Clapton" name="Layla" time="12'29"/>
+			<track author="Eric Clapton" name="Behind The Mask" time="4'30"/>
+			<track author="Eric Clapton" name="Sunshine Of Your Love" time="16'08"/>
+		</tracks>
+	</album>
+	<album artist="Charlie Christian" tittle="Solo Flight" year="1939">
+		<tracks>
+			<track author="Charlie Christian" name="Soft Winds" time="2'30"/>
+			<track author="Charlie Christian" name="Solo Flight" time="2'47"/>
+			<track author="Charlie Christian" name="Stardust" time="3'16"/>
+			<track author="Charlie Christian" name="Swing To Bop" time="8'53"/>
+			<track author="Charlie Christian" name="Till Tom Special" time="3'03"/>
+			<track author="Charlie Christian" name="Waitin' For Benny" time="5'07"/>
+			<track author="Charlie Christian" name="Wholly Cats" time="3'01"/>
+		</tracks>
+	</album>
+	<album artist="Tom Jobim" tittle="Wave" year="1967">
+		<tracks>
+			<track author="Tom Jobim" name="Wave" time="2'30"/>
+			<track author="Tom Jobim" name="Red House Blouse" time="2'47"/>
+			<track author="Tom Jobim" name="Look To The Sky" time="3'16"/>
+			<track author="Tom Jobim" name="Batidinha" time="8'53"/>
+			<track author="Tom Jobim" name="Triste" time="3'03"/>
+			<track author="Tom Jobim" name="Mojave" time="5'07"/>
+			<track author="Pixinguinha" name="Lamento" time="3'01"/>
+		</tracks>
+	</album>
+</cdlist>

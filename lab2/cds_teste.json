@@ -1,0 +1,55 @@
+{
+  "cdlist": [
+    {
+      "tracks": [
+        {
+          "author": "Cesar Camargo Mariano",
+          "name": "Samambaia",
+          "time": "5'04"
+        },
+        {
+          "author": "Pixinguinha e Joao de Barro",
+          "name": "Carinhoso",
+          "time": "3'51"
+        }
+      ],
+      "artist": "Cesar Camargo Mariano e Helio Delmiro",
+      "year": "1981",
+      "title": "Samambaia"
+    },
+    {
+      "tracks": [
+        {
+          "author": "Carlos Lyra e Vinicius de Moraes",
+          "name": "Marcha da Quarta Feira de Cinzas",
+          "time": "4'11"
+        },
+        {
+          "author": "4'56",
+          "name": "Beguine",
+          "time": "Juarez Moreira"
+        }
+      ],
+      "artist": "Juarez Moreira",
+      "year": "",
+      "title": "Samblues"
+    },
+    {
+      "tracks": [
+        {
+          "author": "John Abercrombie",
+          "name": "Arcade",
+          "time": "9'37"
+        },
+        {
+          "author": "John Abercrombie",
+          "name": "NightLake",
+          "time": "5'30"
+        }
+      ],
+      "artist": "John Abercrombie Quartet",
+      "year": "1978",
+      "title": "Arcade"
+    }
+  ]
+}
