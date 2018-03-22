@@ -5,7 +5,7 @@
 import urllib
 
 def sendReq(nome,ra):
-    req = urllib.urlopen('http://localhost:8080?nome='+str(nome)+'&ra='+str(ra))
+    req = urllib.urlopen('http://localhost:8000?nome='+str(nome)+'&ra='+str(ra))
     return req.read()
 
 

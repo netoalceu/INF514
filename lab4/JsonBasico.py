@@ -18,7 +18,9 @@ class JsonBasico():
 
     def generateParms(self, json_codificado):
         res = '<h3> Parâmetros:</h3>\n'
-        res += '<p>' + json_codificado + '"\n'
+        lista_json = json_codificado.split("\n")
+        for j in lista_json:
+            res += '<p>' + j + '"\n'
         return res
 
     def getParms(self, path):

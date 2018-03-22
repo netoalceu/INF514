@@ -37,7 +37,7 @@ class ServidorExemplo(BaseHTTPServer.BaseHTTPRequestHandler):
 
 
 # criação do servidor            
-httpserver = BaseHTTPServer.HTTPServer(("",8080), ServidorExemplo)
+httpserver = BaseHTTPServer.HTTPServer(("",8000), ServidorExemplo)
 
 # rodar até ...
 httpserver.serve_forever()
